@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Ken Akure",
+        "age": 40,
+        "grade": "A"
+    },
+    {
+        "name": "Bolaji",
+        "age": 22,
+        "grade": "B"
+    },
+    {
+        "name": "Chioma",
+        "age": 28,
+        "grade": "C"
+    }
+]
