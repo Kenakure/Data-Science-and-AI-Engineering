@@ -1,7 +1,8 @@
-{
+{"python.terminal.useEnvFile": true
     "folders": [
         {
             "path": "."
         }
-    ]
+    ],
+    "settings": {}
 }
