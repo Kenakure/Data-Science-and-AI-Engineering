@@ -43,4 +43,3 @@ def get_connection():
 def run_query(sql: str) -> pd.DataFrame:
     """Run a SELECT query and return the result as a pandas DataFrame."""
     return pd.read_sql(sql, get_engine())
-
